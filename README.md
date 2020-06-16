@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-<img src="./public/readmelogo.png">
+<img src="./public/assets/readmelogo.png">
 </h1>
 
 📋**Sobre**
