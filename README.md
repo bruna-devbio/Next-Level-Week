@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
+=======
+# Next-Level-Week
+Projeto desenvolvido com orientação da Rocketseat. Criamos um app de cadastro e busca de pontos de coleta de resíduos.
+>>>>>>> 32ab2324305520374a8b17b03e3a237491b9717b
 <img src="./public/assets/readmelogo.png">
 </h1>
 
